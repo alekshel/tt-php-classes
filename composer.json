@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "classes"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    }
+}
